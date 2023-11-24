@@ -1,2 +1,11 @@
 letsencrypt/acme.json
 nohup.out
+
+/public/
+/repos/perses
+/resources/_gen/
+/static/img
+/.hugo_build.lock
+
+/content/**/*.md
+!/content/**/_index.md
