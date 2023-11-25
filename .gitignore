@@ -1,2 +1,7 @@
 letsencrypt/acme.json
 nohup.out
+
+/website/repos/perses
+/website/content/**/*.md
+!/website/content/**/_index.md
+/website/node_modules
